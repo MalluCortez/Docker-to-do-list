@@ -30,4 +30,3 @@ function ItemAdd() {
 }
 
 export default ItemAdd;
-/* iniciando Projeto */
